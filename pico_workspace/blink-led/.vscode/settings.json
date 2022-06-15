@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "cmake.sourceDirectory": "${workspaceFolder}/.",
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}

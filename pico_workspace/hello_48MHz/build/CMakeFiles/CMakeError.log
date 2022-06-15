@@ -1,0 +1,123 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_378b1/fast && /usr/bin/make -f CMakeFiles/cmTC_378b1.dir/build.make CMakeFiles/cmTC_378b1.dir/build
+make[1]: Entering directory '/home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_378b1.dir/testCCompiler.c.o
+/usr/bin/arm-none-eabi-gcc    -o CMakeFiles/cmTC_378b1.dir/testCCompiler.c.o   -c /home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_378b1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_378b1.dir/link.txt --verbose=1
+/usr/bin/arm-none-eabi-gcc      -rdynamic CMakeFiles/cmTC_378b1.dir/testCCompiler.c.o  -o cmTC_378b1 
+arm-none-eabi-gcc: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_378b1.dir/build.make:87: cmTC_378b1] Error 1
+make[1]: Leaving directory '/home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_378b1/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e3186/fast && /usr/bin/make -f CMakeFiles/cmTC_e3186.dir/build.make CMakeFiles/cmTC_e3186.dir/build
+make[1]: Entering directory '/home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e3186.dir/testCCompiler.c.o
+/usr/bin/arm-none-eabi-gcc    -o CMakeFiles/cmTC_e3186.dir/testCCompiler.c.o   -c /home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e3186
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e3186.dir/link.txt --verbose=1
+/usr/bin/arm-none-eabi-gcc      -rdynamic CMakeFiles/cmTC_e3186.dir/testCCompiler.c.o  -o cmTC_e3186 
+arm-none-eabi-gcc: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_e3186.dir/build.make:87: cmTC_e3186] Error 1
+make[1]: Leaving directory '/home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_e3186/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3773c/fast && /usr/bin/make -f CMakeFiles/cmTC_3773c.dir/build.make CMakeFiles/cmTC_3773c.dir/build
+make[1]: Entering directory '/home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3773c.dir/testCCompiler.c.o
+/usr/bin/arm-none-eabi-gcc    -o CMakeFiles/cmTC_3773c.dir/testCCompiler.c.o   -c /home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_3773c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3773c.dir/link.txt --verbose=1
+/usr/bin/arm-none-eabi-gcc      -rdynamic CMakeFiles/cmTC_3773c.dir/testCCompiler.c.o  -o cmTC_3773c 
+arm-none-eabi-gcc: error: unrecognized command line option '-rdynamic'
+make[1]: *** [CMakeFiles/cmTC_3773c.dir/build.make:87: cmTC_3773c] Error 1
+make[1]: Leaving directory '/home/ivan/raspberry-pi-pico/pico_workspace/hello_48MHz/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_3773c/fast] Error 2
+
+
+

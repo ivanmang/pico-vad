@@ -1,0 +1,3 @@
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pioasm/CMakeFiles/edit_cache.dir
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pioasm/CMakeFiles/pioasm.dir

@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/CMakeFiles/ELF2UF2Build
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/CMakeFiles/ELF2UF2Build.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule

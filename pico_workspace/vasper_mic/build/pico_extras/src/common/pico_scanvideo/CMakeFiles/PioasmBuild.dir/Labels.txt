@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/CMakeFiles/PioasmBuild
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/CMakeFiles/PioasmBuild.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/CMakeFiles/PioasmBuild-complete.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/ivan/raspberry-pi-pico/pico_workspace/vasper_mic/build/pico_extras/src/common/pico_scanvideo/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
